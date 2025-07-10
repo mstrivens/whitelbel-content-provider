@@ -1,0 +1,23 @@
+{
+  "name": "whitelabel-content-page",
+  "version": "1.0.0",
+  "description": "A simple whitelabel learning content page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "whitelabel",
+    "learning",
+    "content",
+    "education",
+    "video"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
